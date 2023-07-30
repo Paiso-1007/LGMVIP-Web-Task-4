@@ -1,2 +1,2 @@
-# LGMVIP-Web-Task-4
-A simple calculator. using html,css,js
+Calculator
+clone it and you can directly run the index.html
